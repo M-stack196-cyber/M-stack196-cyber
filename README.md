@@ -1,4 +1,4 @@
-![logo](https://github.com/M-stack196-cyber/M-stack196-cyber/blob/main/Github%20banner1.png)
+[![logo](https://github.com/M-stack196-cyber/M-stack196-cyber/blob/main/Github%20banner1.png)]()
 
 <h1 align="center">Hi 👋, I'm Muhammad Tayyab Aslam</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
@@ -76,14 +76,17 @@
 
 ---
 
+<h3 align="left">📊 GitHub Stats:</h3>
+
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-stack196-cyber&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <!-- Replace YOUR-VERCEL-URL with your actual Vercel deployment URL -->
+  <img align="left" src="https://YOUR-VERCEL-URL/api/top-langs?username=m-stack196-cyber&show_icons=true&locale=en&layout=compact&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=m-stack196-cyber&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img align="center" src="https://YOUR-VERCEL-URL/api?username=m-stack196-cyber&show_icons=true&locale=en&cache_seconds=86400" alt="GitHub Stats" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-stack196-cyber&" alt="GitHub Streak" />
+  <img align="center" src="https://streak-stats.demolab.com?user=m-stack196-cyber&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
