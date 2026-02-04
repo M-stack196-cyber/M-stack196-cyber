@@ -10,7 +10,7 @@
 </p>
 
 - 🌱 I’m currently learning **Django Rest Framework**  
-- 📫 Reach me at **aslammtayyab6@gmail.com**  
+- 📫 Reach me at **mtayyabaslam7@gmail.com**  
 - 📄 I have **approximately 2 years of experience**  
 - ⚡ Fun fact: **I am funny ❤**
 
